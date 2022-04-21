@@ -1,5 +1,5 @@
 # np-doors
-ui'li locking, locked, unlocking, unlocked, 
+locking, locked, unlocking, unlocked with UI
 
 You can watch the script from this link
 
